@@ -1,0 +1,6 @@
+framework module Pods_Mapa_de_justicia {
+  umbrella header "Pods-Mapa de justicia-umbrella.h"
+
+  export *
+  module * { export * }
+}
